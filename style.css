@@ -1,0 +1,15 @@
+*{
+
+    text-align: center;
+}
+
+body{
+
+    background:linear-gradient(to right, green,yellow);
+}
+
+
+
+a:hover{
+    color:blue;
+}
